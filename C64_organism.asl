@@ -1,5 +1,5 @@
 
-state("x64sc", "C64 Forever 8.3.7.0")
+state("x64sc", "Vice 65 3.6.1")
 {
     byte numData : "x64sc.exe", 0x3A8F25;
     byte numCrew : "x64sc.exe", 0x3A8F26;
